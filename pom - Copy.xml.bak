@@ -13,7 +13,7 @@
 	</properties>
 	<dependencies>
 
-		<!-- Sporing -->
+		<!-- Spring -->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>org.springframework.context</artifactId>
